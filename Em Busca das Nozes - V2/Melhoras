@@ -1,0 +1,4 @@
+1 - Troquei os números 1(casas), 0(sementes) e 8(jogador) posicionados na matriz por Strings.
+2 - As casas são pontos (.) para visualizar melhor os aspectos principais.
+3 - O jogador é "X" e as sementes são cifrões "$", para dar mais destaque.
+4 - Dessa vez usei o for e o whilw para criar o mapa e posicionar os elementos aleatórios - jogador e sementes - nele.
